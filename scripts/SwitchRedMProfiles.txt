@@ -1,0 +1,3 @@
+# nome,plataforma,servidor,timeout
+MinhaSteam,STEAM,,5
+MinhaEpic,EPIC,,8

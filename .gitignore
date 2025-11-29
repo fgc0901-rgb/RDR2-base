@@ -1,0 +1,24 @@
+# OS
+Thumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Node
+node_modules/
+dist/
+.npm/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# VS Code
+.vscode/
+
+# Temp
+.temp/
+.tmp/
